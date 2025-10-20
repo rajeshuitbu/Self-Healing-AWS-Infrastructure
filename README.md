@@ -1,2 +1,2 @@
 # Self-Healing-AWS-Infrastructure
-AWS environment that automatically detects a failed EC2 instance and recovers it
+Automated self-healing EC2 architecture using AWS Lambda, CloudWatch, and SNS
